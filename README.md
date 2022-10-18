@@ -1,5 +1,5 @@
 <h1 align="center"> Hello there 👋 </h1>
-Welcome to my git page
+<br>
 ##About me
 <table align="center">
   <tr>
